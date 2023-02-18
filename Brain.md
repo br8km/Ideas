@@ -22,3 +22,6 @@
 	- Rule
 	- Knowledge
 	- Complex
+- Custom Learning
+	- Weight
+	- Update
