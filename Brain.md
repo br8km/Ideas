@@ -19,5 +19,5 @@
 	- Course
 	- Interest
 - Instant Learning
-        - Rule
-        - Knowledge
+	- Rule
+	- Knowledge
