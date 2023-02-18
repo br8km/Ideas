@@ -25,3 +25,7 @@
 - Custom Learning
 	- Weight
 	- Update
+
+### Tough Point
+- How Memory Works
+- How Think Works
