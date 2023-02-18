@@ -1,6 +1,6 @@
 
 ---
-# Ideal Universal Intelligence -- Brain
+## Just Brain -- Ideal Universal Intelligence Engine
 
 - Blank Initial
 - Conscious Autonomic
