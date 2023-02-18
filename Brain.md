@@ -27,5 +27,6 @@
 	- Update
 
 ### Tough Point
-- How Memory Works
-- How Think Works
+- Memory Mechanism
+- Thought Process
+- Band Width
