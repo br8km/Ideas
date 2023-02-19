@@ -30,3 +30,6 @@
 - Memory Mechanism
 - Thought Process
 - Band Width
+
+### Photonic Chips
+- Wave-particle duality for Logical & Neural Network Calculating
